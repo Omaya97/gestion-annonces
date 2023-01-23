@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "GestionAnnonces",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
